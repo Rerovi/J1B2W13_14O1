@@ -1,0 +1,26 @@
+#game-buttons {
+    text-align: center;
+}
+#button1, #button2, #button3 {
+    height: 50px;
+}
+#description {
+    margin-bottom: 300px;
+}
+#title, #description {
+    color: white;
+    text-align: center;
+}
+#game-container {
+    width: 800px;
+    height: 575px;
+    text-align: center;
+    margin-left: 250px;
+}
+html {
+    background-color: gray;
+}
+* {
+    font-family: 'Lobster', cursive;
+}
+
